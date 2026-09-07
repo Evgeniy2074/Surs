@@ -1,2 +1,2 @@
-# Surs
+# Addblok
 Плагин для Lampa
